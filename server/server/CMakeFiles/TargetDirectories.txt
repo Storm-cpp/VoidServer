@@ -1,0 +1,3 @@
+/home/roma/Desktop/server/server/CMakeFiles/void_server.dir
+/home/roma/Desktop/server/server/CMakeFiles/edit_cache.dir
+/home/roma/Desktop/server/server/CMakeFiles/rebuild_cache.dir
